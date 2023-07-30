@@ -2,7 +2,7 @@
 
 Movie Mania is a web application developed using React and Tailwind CSS, providing users with an immersive movie discovery experience. With seamless integration of the TMDB API, users can explore a vast collection of movies and easily manage their favorite films. This project showcases proficiency in React, Tailwind CSS, API integration, and creating engaging user experiences.
 
-## 🚀 Live Demo : [Movie Mania](https://stately-douhua-f8c083.netlify.app/)
+### Live Demo : [Movie Mania](https://stately-douhua-f8c083.netlify.app/)
 
 ## Features
 
