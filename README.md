@@ -2,11 +2,13 @@
 
 Movie Mania is a web application developed using React and Tailwind CSS, providing users with an immersive movie discovery experience. With seamless integration of the TMDB API, users can explore a vast collection of movies and easily manage their favorite films. This project showcases proficiency in React, Tailwind CSS, API integration, and creating engaging user experiences.
 
+## 🚀 Live Demo : [Movie Mania](https://stately-douhua-f8c083.netlify.app/)
+
 ## Features
 
 - **Discover Movies**: Movie Mania allows users to browse an extensive selection of movies sourced from the TMDB API. Whether you're interested in the latest blockbusters or timeless classics, Movie Mania has something for everyone.
 
-- **Movie Details**: Dive deeper into the world of cinema with comprehensive movie details. Access information such as plot summaries, cast details, release dates, and user reviews to make informed viewing decisions.
+- **Movie Details**: Dive deeper into the world of cinema with comprehensive movie details. Access information such as release dates, and ratings to make informed viewing decisions.
 
 - **Favorite Movies**: Users can mark their favorite movies and easily access them later. The application provides a user-friendly way to manage and keep track of movies you love.
 
@@ -18,7 +20,7 @@ Movie Mania is a web application developed using React and Tailwind CSS, providi
 
 - **Streamlined and Responsive UI**: Tailwind CSS is employed to design a clean, modern, and responsive user interface. Movie Mania looks great on various devices, providing an enjoyable experience across desktops, tablets, and smartphones.
 
-- **Sorting Options**: Users can sort movie lists based on different criteria such as popularity, release date, and ratings, enhancing usability and convenience.
+- **Sorting Options**: Users can sort movie lists based on different criteria such as popularity and ratings enhancing usability and convenience.
 
 - **Search Functionality**: Easily find specific movies with the powerful search feature. Just type in the movie title, and Movie Mania will present relevant results in no time.
 
@@ -46,7 +48,7 @@ To run Movie Mania locally, follow these steps:
 <p align='center'>
     <b>Made by </b>
     <a href="https://github.com/divyanshrampal">Divyansh Rampal</a>
+    Enjoy discovering new movies with Movie Mania! 🎥
 </p>
 
-Enjoy discovering new movies with Movie Mania! 🎥
 
