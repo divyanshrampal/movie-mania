@@ -46,7 +46,7 @@ To run Movie Mania locally, follow these steps:
 <br><br>
 
 <p align='center'>
-    Made by <a href="https://github.com/divyanshrampal">Divyansh Rampal</a>]
+    Made by <a href="https://github.com/divyanshrampal">Divyansh Rampal</a>
     <br>
     Enjoy discovering new movies with Movie Mania! 🎥
 </p>
